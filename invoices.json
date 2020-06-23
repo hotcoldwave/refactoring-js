@@ -1,0 +1,37 @@
+[
+  {
+    "customer": "MDT",
+    "performance": [
+      {
+        "playId": "Гамлет",
+        "audience": 55,
+        "type": "tragedy"
+      },
+      {
+        "playId": "Ромео и Джульетта",
+        "audience": 35,
+        "type": "tragedy"
+      },
+      {
+        "playId": "Отелло",
+        "audience": 40,
+        "type": "comedy"
+      }
+    ]
+  },
+  {
+    "customer": "Egor",
+    "performance": [
+      {
+        "playId": "Вишнёвый сад",
+        "audience": 45,
+        "type": "comedy"
+      },
+      {
+        "playId": "Гроза",
+        "audience": 65,
+        "type": "tragedy"
+      }
+    ]
+  }
+]
